@@ -1,2 +1,7 @@
 # Ad-posting-with-Python
-Make your ad posting work easy with this script
+Makes your ad posting work easy with this script
+
+
+1. Open terminal
+2. Type **python adposting.py** and press enter
+Note: Do not spam any website. 
